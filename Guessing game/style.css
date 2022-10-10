@@ -1,0 +1,23 @@
+body {
+    background-color: grey;
+    color: white;
+    font-size: 20px;
+}
+
+#container {
+    background-color: darkcyan;
+    border: 3px solid white;
+    height: 275px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+}
+
+#userInput {
+    width: 100px;
+    margin: 25px auto;
+}
+
+#btn {
+    margin: 25px auto auto 5px;
+}
